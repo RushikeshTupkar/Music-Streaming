@@ -12,10 +12,10 @@
 
 * **Model** :
   There are Four Models class in this application.
-    1. Users Model Class.
-    2. Status Model Class.
-    3. Role Model Class.
-    4. Songs Model Class.
+    * Users Model Class.
+    * Status Model Class.
+    * Role Model Class.
+    * Songs Model Class.
 
 
 * **Controller** :
