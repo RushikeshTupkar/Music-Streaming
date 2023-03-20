@@ -12,40 +12,40 @@
 
 * **Model** :
   There are Four Models class in this application.
-    1. Users Model Class.
-    2. Status Model Class.
-    3. Role Model Class.
-    4. Songs Model Class.
+    * Users Model Class.
+    * Status Model Class.
+    * Role Model Class.
+    * Songs Model Class.
 
 
 * **Controller** :
 
   There are Five Controller classse in this application.
 
-    1. AdminController Class.
-    2. UsersController Class.
-    3. StatusController Class.
-    4. SongsController class.
-    5. RoleController class. 
+    * AdminController Class.
+    * UsersController Class.
+    * StatusController Class.
+    * SongsController class.
+    * RoleController class. 
 
 
 * **Interfaces** :
 
   There are Four Interfaces in this application.
-    1. IUsersInterface Interface.
-    2. IStatusInterface Interface.
-    3. IRoleInterface Interface.
-    4. ISongInterface
+    * IUsersInterface Interface.
+    * IStatusInterface Interface.
+    * IRoleInterface Interface.
+    * ISongInterface
 
 
 * **Service** :
 
   There are Frou Service class in this application.
 
-    1. UsersService Class.
-    2. StatusService Class.
-    3. RoleService Class.
-    4. SongsService Class
+    *. UsersService Class.
+    * StatusService Class.
+    * RoleService Class.
+    * SongsService Class
   
 
 
@@ -53,10 +53,10 @@
 
   There are Four Repository Interfaces in this application.
 
-    1. IUsersRepository Interface.
-    2. IStatusRepository Interface.
-    3. ISongsRepository Interface.
-    4. IRoleRepository Interface
+    * IUsersRepository Interface.
+    * IStatusRepository Interface.
+    * ISongsRepository Interface.
+    * IRoleRepository Interface
 
 
 * **Util/Validation** :
