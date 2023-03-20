@@ -42,7 +42,7 @@
 
   There are Frou Service class in this application.
 
-    *. UsersService Class.
+    * UsersService Class.
     * StatusService Class.
     * RoleService Class.
     * SongsService Class
